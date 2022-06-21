@@ -1,0 +1,27 @@
+footer {
+    background-color: rgb(49, 12, 153);
+    margin: 2px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    .footer_medios-pagos {
+      list-style-type: none;
+      font-size: 25px;
+      .footer_palabras:nth-child(odd) {
+        margin-bottom: 0px;
+        color: rgb(241, 241, 243);
+      }
+      .footer_palabras:nth-child(even) {
+        margin-bottom: 0px;
+        color: pink;
+      }
+    }
+    .footer_subrayado{
+      font-size: 20px;
+      text-decoration: none;
+      color: #f7f6f8;
+    }
+  }
+
+

@@ -1,0 +1,11 @@
+{
+    "liveSassCompile.settings.autoprefix": null,
+    "liveSassCompile.settings.formats": [{
+        "format": "expanded",
+        "extensionName": ".css",
+        "savePath": "~/../css/"
+}],
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "liveServer.settings.donotShowInfoMsg": true
+}
